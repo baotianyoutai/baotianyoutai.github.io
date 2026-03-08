@@ -2,3 +2,21 @@ title: 鴇田優太 | Portfolio
 description: AI Engineer / Datascientist at Chibabank from 2024.
 # theme: jekyll-theme-cayman
 remote_theme: le4ker/personal-jekyll-theme
+
+# Lagrangeテーマ独自のオプション
+# サイドバーに表示するプロフィール情報
+author:
+  name: [あなたの氏名]
+  email: [メールアドレス]
+  work: AI/ML Engineer
+  location: Chiba, Japan
+  url: https://github.com/[あなたのユーザー名]
+
+# ソーシャルリンクの設定
+social:
+  github: [あなたのユーザー名]
+  linkedin: [あなたのユーザー名] # もしあれば
+  twitter: [あなたのユーザー名]
+
+# Google Analytics (オプション)
+# google_analytics: UA-XXXXXXXXX-X
